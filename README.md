@@ -15,7 +15,7 @@ Through this project I learned:
 - The process of creating and completing a new repository.
 
 ### Screenshot
-![screenshot](https://github.com/Golsanorouzi/Potentials-of-Web-Development/blob/main/assets/images/Screen%20Shot%202022-07-11%20at%204.15.21%20PM.png)
+![screenshot](https://github.com/Golsanorouzi/unhackable-password-generator/blob/main/assets/Screen%20Shot%202022-08-29%20at%205.11.44%20PM.png)
 
 #### References
 https://www.youtube.com/watch?v=KcxmB6leB1c
