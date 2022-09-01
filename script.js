@@ -16,7 +16,7 @@ function writePassword() {
 function generatePassword() {
   var passwordLenght = parseInt(prompt("Choose a number lenght between 8-128 characters"))
   if (passwordLenght < 8 || passwordLenght > 128 || isNaN(passwordLenght)) {
-    return 'please choose an answer within the choosen criteria'
+    return 'Please choose an answer within the choosen criteria'
   }
   //create the prompts
   var upperCase = confirm("Would you like the passwrod to have uppercase letters?")
@@ -26,7 +26,7 @@ function generatePassword() {
 
   //what heppens if the given criteria is not selected?
   if (!upperCase && !lowerCase && !numbers && !specialCharacter) {
-    return 'please choose an answer within the choosen criteria'
+    return 'Please choose an answer within the choosen criteria'
   }
  // define each prompts
   var notHack = []
